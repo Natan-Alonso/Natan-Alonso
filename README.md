@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on M2 Tecnologia.
 - 🌱 I’m currently learning technician support and develop.
 - 👯 I'm not collaborating, because, I'm still studying. 
