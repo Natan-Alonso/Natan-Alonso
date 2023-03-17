@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Working on M2 Tecnologia.
-- 🌱 Estudying Back-end (C#).
+- 🔭 Working on Grupo M2. ( React | TypeScript )
+- 🌱 Estudying Front-End ( React | TypeScript )
 - 📫 How to reach me: @natan__dev on Instagram or on e-mail: natan.oliveira2002@hotmail.com
 
  <div>
