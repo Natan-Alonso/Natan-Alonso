@@ -1,8 +1,8 @@
 ### Hi Eu sou Natan Aonso 👋
 ##
 
-- 🔭 I worked on Grupo M2. ( React | TypeScript )
-- 🌱 Estudying Front-End ( React | TypeScript )
+- 🔭 I work ( React | Angular | TypeScript )
+- 🌱 Estudying Front-End ( Angular | TypeScript )
 - 📫 How to reach me: @natan__dev on Instagram or on e-mail: natan.oliveira2002@hotmail.com
 
  <div>
