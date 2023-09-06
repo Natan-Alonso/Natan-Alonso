@@ -2,8 +2,8 @@
 ##
 
 - 🔭 I work ( React | Angular | TypeScript )
-- 🌱 Estudying Front-End ( Angular | TypeScript )
-- 📫 How to reach me: @natan__dev on Instagram or on e-mail: natan.oliveira2002@hotmail.com
+- 🌱 Estudying Front-End ( React | Angular | TypeScript )
+- 📫 How to reach me: @natan__dev on Instagram or on e-mail: natan.oliveira2002@hotmail.com | natanalonso00@gmail.com
 
  <div>
   <a href="https://https://github.com/Natan-Alonso">
@@ -19,6 +19,7 @@
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Natan-TS" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
  <img align="center" alt="Natan-React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+ <img align="center" alt="Natan-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
  <img align="center" alt="Natan-node" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Natan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Natan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
